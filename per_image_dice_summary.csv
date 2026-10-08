@@ -1,0 +1,7 @@
+Dataset,Method,n,Dice mean,Dice std
+STARE,Source-only,10,0.756,0.0483
+STARE,Proposed (w/o VPR),10,0.7774,0.035
+STARE,Proposed + VPR,10,0.7244,0.126
+HRF,Source-only,23,0.6166,0.0561
+HRF,Proposed (w/o VPR),23,0.6702,0.0375
+HRF,Proposed + VPR,23,0.6681,0.0373
